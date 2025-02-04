@@ -1,4 +1,3 @@
-import Back2top from "./Back2top";
 function Footer2() {
   return (
     <div className="footer2">
