@@ -1,0 +1,576 @@
+.hiddenonmobile {
+  display: block;
+}
+.hiddenonlap {
+  display: block;
+}
+
+@media (max-width: 769px) {
+  .hiddenonmobile {
+    display: none;
+  }
+  .toggler-position {
+  }
+
+  .signup1 {
+    color: #d95700 !important;
+    font-family: monospace !important;
+    font-size: 1rem !important;
+  }
+
+  .flex-item {
+    margin: 20px;
+  }
+
+  .about {
+    display: block;
+    margin-top: 60px !important;
+    padding: 20px !important;
+    height: auto;
+  }
+  .signup {
+    margin-top: 50px;
+    padding: 5px;
+  }
+
+  /* footer css */
+
+  .footer1 {
+    margin-top: 50px;
+  }
+  .pfoot {
+    color: #d95700 !important;
+    font-weight: bold;
+    font-family: "poppings", sans-serif;
+  }
+  .foottext {
+    color: #fcfafa !important;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 0.8rem;
+  }
+  .abu {
+    color: #d95700 !important;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 1rem;
+  }
+  .hbu {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: corrperplate;
+    color: rgb(14, 13, 13);
+  }
+
+  .about1 img {
+    border-radius: 10px;
+  }
+
+  .sub-img {
+    width: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+  }
+
+  .about2 {
+    margin-top: 20px !important;
+  }
+
+  .capcaro {
+    text-align: left !important;
+    margin-bottom: 20px;
+  }
+
+  .carop {
+    font-weight: bold !important;
+    font-size: 1rem !important;
+    font-family: sans-serif !important;
+  }
+  .caroh5 {
+    font-size: 1.5rem !important;
+    font-family: sans-serif !important;
+    font-weight: bold !important;
+    color: rgb(252, 250, 250);
+  }
+  .caroa {
+    font-weight: bold !important;
+    font-size: 1rem !important;
+    font-family: sans-serif !important;
+  }
+
+  .title {
+    font-family: monospace;
+    color: #d95700;
+    font-size: 1rem;
+    margin-top: 50px;
+  }
+  .footer2 {
+    background-color: #002147;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    font-weight: bold !important;
+    font-size: 1rem !important;
+  }
+
+  .sub-title {
+    color: rgb(49, 49, 49);
+    font-size: 2rem;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 769px) {
+  .hiddenonlap {
+    display: none;
+  }
+  .flex-container {
+    display: flex;
+  }
+  .mr50 {
+    margin-right: 150px !important;
+  }
+  .flex-item {
+    margin: 20px;
+  }
+
+  .footer2 {
+    background-color: #002147;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    font-weight: bold !important;
+    font-size: 1rem !important;
+  }
+  .ft2margin {
+    margin-left: 350px;
+  }
+
+  .signup {
+    margin-top: 200px;
+    padding: 50px;
+  }
+  .footer1 {
+    margin-top: 200px;
+  }
+  .pfoot {
+    color: #d95700 !important;
+    font-weight: bold;
+    font-family: "poppings", sans-serif;
+    font-size: 1.5rem;
+  }
+  .foottext {
+    color: #fcfafa !important;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 0.8rem;
+  }
+
+  .signup1 {
+    color: #d95700 !important;
+    font-family: monospace !important;
+    font-size: 2rem !important;
+    padding: 10px;
+  }
+  .about {
+    display: block;
+    margin-top: 800px !important;
+  }
+
+  .abu {
+    color: #d95700 !important;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 2rem;
+  }
+  .hbu {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: corrperplate;
+    color: rgb(14, 13, 13);
+  }
+  .about1 {
+    display: inline-block;
+    width: 50%;
+  }
+  .about1 img {
+    object-fit: contain;
+    border-radius: 10px;
+  }
+
+  .sub-img {
+    width: 30%;
+    object-fit: contain;
+    border-radius: 10px;
+  }
+
+  .about2 {
+    padding-top: 10px !important;
+    display: inline-block;
+    width: 50% !important;
+    margin-top: 40px !important;
+    padding: 20px !important;
+  }
+
+  .capcaro {
+    text-align: left !important;
+    margin-bottom: 200px;
+  }
+
+  .carop {
+    font-weight: bold !important;
+    font-size: 3rem !important;
+    font-family: sans-serif !important;
+  }
+  .caroh5 {
+    font-size: 5rem !important;
+    font-family: sans-serif !important;
+    font-weight: bold !important;
+    color: rgb(252, 250, 250);
+  }
+  .caroa {
+    font-weight: bold !important;
+    font-size: 2rem !important;
+    font-family: sans-serif !important;
+  }
+
+  .title {
+    font-family: monospace;
+    color: #d95700;
+    font-size: 3rem;
+    margin-top: 200px;
+  }
+
+  .sub-title {
+    color: rgb(49, 49, 49);
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 50px;
+  }
+}
+
+/* css below media query */
+
+.top {
+  margin-top: 20px;
+}
+.dark {
+  font-size: 2rem !important;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: bold !important;
+}
+.toggler-position {
+  margin-right: 10% !important;
+}
+
+.warning {
+  color: #d95700;
+  font-family: Copperplate !important;
+  font-size: 3rem !important;
+}
+.teng {
+  font-size: 2rem !important;
+}
+.bold {
+  font-size: 3rem !important;
+  font-family: sans-serif !important;
+  font-weight: bold !important;
+}
+
+/* carousel css */
+.carousel-caption h1 {
+  font-size: 2rem;
+  color: white;
+}
+
+.carousel-caption p {
+  font-size: 1rem;
+  color: white;
+  margin: 10px 0;
+}
+
+.carousel-caption button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  border: none;
+}
+
+.carousel-caption button:hover {
+  background-color: #0056b3;
+}
+
+.caro-height {
+  max-height: 30vh !important;
+}
+
+/* image zoom */
+.image-text-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+}
+
+.image-text-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s ease-in-out;
+}
+
+.image-text-container:hover img {
+  transform: scale(1.5); /* Zoom effect on hover */
+}
+
+.image-text-container2 {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 70vh;
+}
+.image-text-container2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s ease-in-out;
+}
+.image-text-container2:hover img {
+  transform: scale(1.5); /* Zoom effect on hover */
+}
+
+.text-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  z-index: 1;
+}
+
+.text-overlay2 {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+  z-index: 1;
+}
+/* card css for courses */
+
+.card {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-color: rgb(236, 246, 252) !important;
+}
+.card-img {
+  object-fit: contain;
+  border-radius: 10px;
+}
+.cardp {
+  padding: 10px;
+  margin-left: 20px;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1.2rem !important;
+}
+.cardp2 {
+  padding: 10px;
+  margin-left: 20px;
+  font-family: arial;
+  font-size: 1.4rem !important;
+  font-weight: bold;
+}
+.ancor {
+  margin: 20px;
+  justify-content: center;
+}
+.card-ancor {
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 1.5rem !important;
+  padding: 20px !important;
+  justify-content: center;
+  color: black;
+  text-decoration: none !important;
+}
+.card-ancor:hover {
+  color: #d95700;
+  text-decoration: underline !important;
+  font-size: 1.5rem !important;
+}
+
+/* signup css  */
+.signup {
+  background-image: url("https://cdn.pixabay.com/photo/2014/09/28/21/30/light-465350_640.jpg");
+  background-size: cover;
+  color: white;
+}
+.signcard {
+  background: linear-gradient(to bottom, white 15%, #d95700 15% 100%);
+  border-radius: 10px;
+  padding: 20px;
+  overflow: hidden;
+}
+.signh1 {
+  font-size: 2rem;
+  text-align: center;
+  width: 100%;
+  color: rgb(63, 62, 62);
+}
+.signform {
+  padding: 20px;
+  margin: 20px;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.signform input {
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+}
+
+/* blog css */
+
+/* footer1 css */
+
+.footer1 {
+  background-color: #002147;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.no-bull {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.no-bull2 {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.afoot {
+  color: rgb(252, 249, 249) !important;
+  text-decoration: none !important;
+  font-family: arail;
+  margin-right: 40px !important;
+}
+
+.afoot:hover {
+  color: #d95700 !important;
+  text-decoration: underline !important;
+}
+.orange {
+  color: #d95700 !important;
+}
+
+.bgorange {
+  background-color: #d95700 !important ;
+}
+.signh11 {
+  padding: 10px;
+  list-style-type: none;
+}
+.signh10 {
+  padding: 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+.boxb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* Black with 60% opacity */
+  z-index: 0;
+}
+.slide {
+  padding-top: 30px;
+}
+
+.passport-div {
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  background-color: #0056b3;
+  border-radius: 50% !important;
+}
+
+.passport-img {
+  border-radius: 50% !important;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* testimoni slider  styling */
+.carousel2 {
+  width: 100%;
+  max-width: 600px;
+  margin: 50px auto;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+/* Container for the slides */
+.carousel-inner2 {
+  display: flex;
+  animation: slideAnimation 9s infinite;
+}
+
+/* Each slide */
+.carousel-item2 {
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: aut0;
+  padding: 20px;
+}
+
+/* Center text inside the slides */
+.carousel-item2 p {
+  text-align: center;
+  font-size: 18px;
+  color: #333;
+}
+
+/* Keyframes for sliding animation */
+@keyframes slideAnimation {
+  0% {
+    transform: translateX(0);
+  }
+  33.33% {
+    transform: translateX(-100%);
+  }
+  66.66% {
+    transform: translateX(-200%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+.mr40 {
+  margin-right: 90px !important;
+}
+.blogp {
+  margin-top: 60px;
+}
