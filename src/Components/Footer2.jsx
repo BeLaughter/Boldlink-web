@@ -4,7 +4,8 @@ function Footer2() {
       <div className="flex-container">
         <div className="flex-item">
           <p className="foottext">
-            © Domain Name. All Rights Reserved. Designed by HTML Codex
+            © Boldlinks Solution. All Rights Reserved. Designed by BLACKFIRE
+            Codex
           </p>
         </div>
         <div className="flex-item ft2margin">
