@@ -538,6 +538,7 @@
 .iconsz {
   width: 30px !important;
   height: 30px !important;
+  border-radius: 5px;
   color: rgb(17, 17, 17);
   background-color: #fcfafa;
 }
