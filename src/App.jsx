@@ -16,7 +16,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <div className="container">
+    <div>
       <Header1 />
       <Header2 />
       <Bodycarosel />
