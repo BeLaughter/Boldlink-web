@@ -1,7 +1,7 @@
 import Card from "./Card";
 function Courses() {
   return (
-    <div>
+    <div className="pad">
       <h1 className="text-center title">COURSES</h1>
       <h2 className="text-center sub-title">Our Popular Courses</h2>
 

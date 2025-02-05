@@ -13,6 +13,7 @@
   }
 
   .signup1 {
+    padding: 10px;
     color: #d95700 !important;
     font-family: monospace !important;
     font-size: 1rem !important;
@@ -24,7 +25,7 @@
 
   .about {
     display: block;
-    margin-top: 60px !important;
+    margin-top: 80px !important;
     padding: 20px !important;
     height: auto;
   }
@@ -174,7 +175,11 @@
   }
   .about {
     display: block;
-    margin-top: 800px !important;
+    margin-top: 1000px !important;
+    padding: 100px;
+  }
+  .pad {
+    padding: 100px;
   }
 
   .abu {
@@ -328,7 +333,7 @@
   position: relative;
   overflow: hidden;
   width: 100%;
-  height: 70vh;
+  height: 60vh;
 }
 .image-text-container2 img {
   width: 100%;

@@ -1,6 +1,6 @@
 function Subjects() {
   return (
-    <div>
+    <div className="pad">
       <h1 className="text-center title">SUBJECTS</h1>
       <h2 className="text-center sub-title">Explore Top Subjects</h2>
       <div>

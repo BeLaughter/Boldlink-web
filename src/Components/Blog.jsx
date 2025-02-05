@@ -2,7 +2,7 @@ import Card3 from "./Card3";
 
 function Blog() {
   return (
-    <div>
+    <div className="pad">
       <h1 className="text-center title">OUR BLOG</h1>
       <h2 className="text-center sub-title">Latest From Our Blog</h2>
       <div className="flex-container">
@@ -21,7 +21,7 @@ function Blog() {
         <div className="flex-item">
           <Card3
             img="https://cdn.pixabay.com/photo/2017/02/24/02/37/classroom-2093744_640.jpg"
-            text="Our programming school stands out by offering a project-based curriculum designed to help students. "
+            text="Our programming school stands out by offering a project-based curriculum. "
           />
         </div>
       </div>
