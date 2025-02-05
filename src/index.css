@@ -22,7 +22,9 @@
   .flex-item {
     margin: 20px;
   }
-
+  .bib {
+    display: flex;
+  }
   .about {
     display: block;
     margin-top: 80px !important;
@@ -188,6 +190,7 @@
     font-family: Arial;
     font-size: 2rem;
   }
+
   .hbu {
     font-size: 3rem;
     font-weight: bold;
@@ -505,8 +508,42 @@
   background-color: rgba(0, 0, 0, 0.6); /* Black with 60% opacity */
   z-index: 0;
 }
+/* css fot teachers to make social link appear on hover */
+
+.boxbt {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(15, 15, 15, 0.7); /* Black with 60% opacity */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.imgcon {
+  position: relative;
+  display: inline-block;
+}
+.imgcon:hover .boxbt {
+  opacity: 1;
+}
+.bib {
+  color: #fcfafa;
+  margin-top: 40px;
+}
+
 .slide {
   padding-top: 30px;
+}
+.iconsz {
+  width: 30px !important;
+  height: 30px !important;
+  color: rgb(17, 17, 17);
+  background-color: #fcfafa;
+}
+.iconsz:hover {
+  color: rgb(247, 243, 243);
+  background-color: rgb(13, 13, 14);
 }
 
 .passport-div {

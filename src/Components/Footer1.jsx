@@ -1,3 +1,5 @@
+import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+
 function Footer1() {
   return (
     <div className=" footer1">
@@ -21,7 +23,20 @@ function Footer1() {
               </a>
             </li>
             <li>
-              <a href="#">social logos</a>
+              <div className="flex-container bib">
+                <div className="flex-item">
+                  <FaFacebook className="iconsz" />
+                </div>
+                <div className="flex-item">
+                  <FaInstagram className="iconsz" />
+                </div>
+                <div className="flex-item">
+                  <FaTwitter className="iconsz" />
+                </div>
+                <div className="flex-item">
+                  <FaLinkedin className="iconsz" />
+                </div>
+              </div>
             </li>
           </ul>
         </div>

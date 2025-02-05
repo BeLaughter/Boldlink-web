@@ -18,7 +18,7 @@ function Bodycarosel() {
             <h5 className="caroh5">
               Best Education From <br></br> Your Home
             </h5>
-            <a className=" btn btn-warning caroa" href="#">
+            <a className=" btn btn-warning caroa bgorange" href="#">
               Learn more
             </a>
           </div>
@@ -35,7 +35,7 @@ function Bodycarosel() {
             <h5 className="caroh5">
               Best Online Learning <br></br> Platform
             </h5>
-            <a className=" btn btn-warning caroa" href="#">
+            <a className=" btn btn-warning caroa bgorange" href="#">
               Learn more
             </a>
           </div>
@@ -43,7 +43,7 @@ function Bodycarosel() {
         <div className="carousel-item">
           <img
             src="https://media.istockphoto.com/id/1419580307/photo/students-walking-on-the-university-campus.jpg?s=612x612&w=0&k=20&c=DPTfhcehBeiINfFiEIaldBhjqn4Isf8p1d_twUJRVkk="
-            className="d-block w-100"
+            className="d-block w-100 "
             alt="Image 3"
           ></img>
           <div className="boxb"></div>
@@ -52,7 +52,7 @@ function Bodycarosel() {
             <h5 className="caroh5">
               New Way To Learn<br></br> From Home
             </h5>
-            <a className=" btn btn-warning bgorange" href="#">
+            <a className=" btn btn-warning caroa bgorange" href="#">
               Learn more
             </a>
           </div>
