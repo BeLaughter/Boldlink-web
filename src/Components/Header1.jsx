@@ -20,7 +20,8 @@ function Header1() {
               className="orange me-2"
               size="lg"
             />
-            Our office <br></br>123 General Street, Lagos, Nigeria
+            Our office <br></br>472 Lagos Abeokuta Expressway, General Bus-stop,
+            Lagos, Nigeria
           </div>
           <div className="col">
             <FontAwesomeIcon
@@ -28,7 +29,7 @@ function Header1() {
               className="orange me-2"
               size="lg"
             />
-            Email Us <br></br>Boldlinks@gmail.com
+            Email Us <br></br>info@boldlinks.com.ng
           </div>
           <div className="col">
             <FontAwesomeIcon
@@ -36,7 +37,7 @@ function Header1() {
               className="orange me-2"
               size="lg"
             />
-            Call Us<br></br>+234 806 937 4132
+            Call Us<br></br>+234 816 275 4001
           </div>
         </div>
       </div>

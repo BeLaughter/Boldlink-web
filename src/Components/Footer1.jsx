@@ -9,17 +9,17 @@ function Footer1() {
           <ul className="no-bull">
             <li>
               <a href="#" className="afoot">
-                123 General Street, Lagos, Nigeria
+                472 Lagos Abeokuta Expressway, General Bus-stop, Lagos, Nigeria
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                +234 806 937 4132
+                +234 816 275 4001
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                Boldlinks@gmail.com
+                info@boldlinks.com.ng
               </a>
             </li>
             <li>
@@ -45,27 +45,27 @@ function Footer1() {
           <ul className="no-bull ">
             <li>
               <a href="#" className="afoot">
-                Web design
+                >Web design
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                Apps design
+                >Apps design
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                marketing
+                >marketing
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                Research
+                >Research
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                SEO
+                >SEO
               </a>
             </li>
           </ul>

@@ -14,10 +14,11 @@ function Bodycarosel() {
           ></img>
           <div className="boxb"></div>
           <div className="carousel-caption capcaro">
-            <p className="carop">Best Online Courses</p>
-            <h5 className="caroh5">
-              Best Education From <br></br> Your Home
-            </h5>
+            <p className="carop">
+              Embark on an exciting journey of learning and innovation <br></br>{" "}
+              with our top-notch programming courses
+            </p>
+            <h5 className="caroh5">Welcome to Boldlinks Technology</h5>
             <a className=" btn btn-warning caroa bgorange" href="#">
               Learn more
             </a>
@@ -31,10 +32,12 @@ function Bodycarosel() {
           ></img>
           <div className="boxb"></div>
           <div className="carousel-caption capcaro">
-            <p className="carop">Best Online Courses</p>
-            <h5 className="caroh5">
-              Best Online Learning <br></br> Platform
-            </h5>
+            <p className="carop">
+              {" "}
+              Embark on an exciting journey of learning and innovation <br></br>{" "}
+              with our top-notch programming courses
+            </p>
+            <h5 className="caroh5">Welcome to Boldlinks Technology</h5>
             <a className=" btn btn-warning caroa bgorange" href="#">
               Learn more
             </a>
@@ -48,10 +51,12 @@ function Bodycarosel() {
           ></img>
           <div className="boxb"></div>
           <div className="carousel-caption  capcaro">
-            <p className="carop">Best Online Courses</p>
-            <h5 className="caroh5">
-              New Way To Learn<br></br> From Home
-            </h5>
+            <p className="carop">
+              {" "}
+              Embark on an exciting journey of learning and innovation
+              <br></br>with our top-notch programming courses
+            </p>
+            <h5 className="caroh5">Welcome to Boldlinks Technology</h5>
             <a className=" btn btn-warning caroa bgorange" href="#">
               Learn more
             </a>

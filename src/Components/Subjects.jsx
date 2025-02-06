@@ -4,7 +4,7 @@ function Subjects() {
       <h1 className="text-center title">SUBJECTS</h1>
       <h2 className="text-center sub-title">Explore Top Subjects</h2>
       <div>
-        <div className="flex-container">
+        <div className="flex-container ">
           <div className="flex-item">
             <div className="image-text-container">
               <img
