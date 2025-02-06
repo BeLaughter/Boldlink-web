@@ -617,3 +617,11 @@
 .blogp {
   margin-top: 60px;
 }
+.pbottom {
+  padding-bottom: 10px;
+}
+.para1 {
+  font-weight: bold;
+  font-family: "poppings", sans-serif;
+  margin-top: 10px;
+}
