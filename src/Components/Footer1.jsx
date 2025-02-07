@@ -23,20 +23,13 @@ function Footer1() {
               </a>
             </li>
             <li>
-              <div className="flex-container bib">
-                <div className="flex-item">
-                  <FaFacebook className="iconsz" />
-                </div>
-                <div className="flex-item">
-                  <FaInstagram className="iconsz" />
-                </div>
-                <div className="flex-item">
-                  <FaTwitter className="iconsz" />
-                </div>
-                <div className="flex-item">
-                  <FaLinkedin className="iconsz" />
-                </div>
-              </div>
+              <FaFacebook className="iconsz" />
+
+              <FaInstagram className="iconsz" />
+
+              <FaTwitter className="iconsz" />
+
+              <FaLinkedin className="iconsz" />
             </li>
           </ul>
         </div>
