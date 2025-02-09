@@ -7,7 +7,10 @@ function Header2() {
       <div className="container">
         <div className="hiddenonlap mr40">
           <h1 className="dark ">
-            <span className="orange">B</span>OLDLINKS
+            <span className="orange" id="nav">
+              B
+            </span>
+            OLDLINKS
           </h1>
         </div>
         <div className="hiddenonmobile">
@@ -70,6 +73,7 @@ function Header2() {
               <li className="nav-item">
                 <a
                   className="nav-link orange active "
+                  
                   aria-current="page"
                   href="#"
                 >

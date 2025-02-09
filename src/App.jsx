@@ -25,6 +25,9 @@ function App() {
       <Courses />
       <Signup />
       <Teachers />
+      <div className="b2top">
+        <a href="#nav">^</a>
+      </div>
       <Testimo />
       <Blog />
       <Footer1 />

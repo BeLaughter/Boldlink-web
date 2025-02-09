@@ -10,7 +10,7 @@ function Header1() {
       <div className="container top">
         <div className="row">
           <div className="col">
-            <h1 className="dark ">
+            <h1 className="dark " id="nav">
               <span className="orange">B</span>OLDLINKS
             </h1>
           </div>
