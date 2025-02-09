@@ -1,6 +1,6 @@
 function About() {
   return (
-    <div className="flex-container about">
+    <div className="flex-container about" id="about">
       <div className="flex-item about1">
         <img
           src="https://cdn.pixabay.com/photo/2022/08/24/15/42/library-7408106_1280.jpg"

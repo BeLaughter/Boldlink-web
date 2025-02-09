@@ -77,19 +77,19 @@ function Header2() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="#about">
                   <strong>About</strong>
                 </a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="#course">
                   <strong>Courses</strong>
                 </a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="#teacher">
                   <strong>Teachers</strong>
                 </a>
               </li>

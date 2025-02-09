@@ -1,7 +1,7 @@
 import Card2 from "./Card2";
 function Teachers() {
   return (
-    <div className="pad">
+    <div className="pad" id="teacher">
       <h1 className="text-center title">TEACHERS</h1>
       <h2 className="text-center sub-title">Meet Our Teachers</h2>
       <div className="flex-container">
