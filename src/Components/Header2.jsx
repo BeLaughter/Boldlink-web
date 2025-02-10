@@ -3,13 +3,11 @@ import { faBookOpen } from "@fortawesome/free-solid-svg-icons";
 
 function Header2() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light m-60">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light ">
       <div className="container">
         <div className="hiddenonlap mr40">
           <h1 className="dark ">
-            <span className="orange" id="nav">
-              B
-            </span>
+            <span className="orange">B</span>
             OLDLINKS
           </h1>
         </div>
@@ -73,7 +71,6 @@ function Header2() {
               <li className="nav-item">
                 <a
                   className="nav-link orange active "
-                  
                   aria-current="page"
                   href="#"
                 >

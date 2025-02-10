@@ -130,6 +130,9 @@
   .flex-container {
     display: flex;
   }
+  .imgh {
+    height: 100vh !important;
+  }
   .mr50 {
     margin-right: 150px !important;
   }
@@ -176,7 +179,7 @@
     padding: 10px;
   }
   .about {
-    margin-top: 1000px !important;
+    margin-top: 500px !important;
     padding: 100px;
   }
   .pad {
@@ -219,10 +222,12 @@
     align-items: center;
     justify-content: space-around;
   }
-
+  .carousel-caption {
+    margin-top: 20px;
+  }
   .capcaro {
     text-align: left !important;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
   }
 
   .carop {
@@ -233,12 +238,14 @@
   .caroh5 {
     font-size: 6rem !important;
     font-family: sans-serif !important;
+    line-height: 1 !important;
     font-weight: bold !important;
     color: rgb(252, 250, 250);
   }
   .caroa {
+    color: white !important;
     font-weight: bold !important;
-    font-size: 2rem !important;
+    font-size: 1.5rem !important;
     font-family: sans-serif !important;
   }
 
@@ -246,7 +253,7 @@
     font-family: monospace;
     color: #d95700;
     font-size: 3rem;
-    margin-top: 200px;
+    margin-top: 50px;
   }
 
   .sub-title {
@@ -270,7 +277,13 @@
 .toggler-position {
   margin-right: 10% !important;
 }
-
+.nav-link {
+  font-size: 1.2rem !important;
+}
+.navbar {
+  margin: 0px !important;
+  padding: 0px !important;
+}
 .warning {
   color: #d95700;
   font-family: Copperplate !important;
@@ -286,6 +299,7 @@
 }
 
 /* carousel css */
+
 .carousel-caption h1 {
   font-size: 2rem;
   color: white;
@@ -415,7 +429,9 @@
   text-decoration: underline !important;
   font-size: 1.5rem !important;
 }
-
+.dis {
+  display: none !important;
+}
 /* signup css  */
 .signup {
   background-image: url("https://cdn.pixabay.com/photo/2014/09/28/21/30/light-465350_640.jpg");
@@ -663,8 +679,11 @@
   box-shadow: 0 4px 6px rgba(8, 8, 8, 0.5);
 }
 .btnsign {
-  background-color: #1624e6;
+  background-color: #121213;
   color: #f3f0ee;
   margin-left: auto;
   margin-right: auto;
+}
+.btnsign:hover {
+  background-color: rgb(247, 154, 14);
 }

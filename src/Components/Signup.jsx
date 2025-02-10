@@ -63,7 +63,7 @@ const Signup = () => {
       )}
       {displaycard2 && (
         <div className="flex-item signcard">
-          <h1 className="signh1">SIGN UP</h1>
+          <h1 className="signh1">SIGN UP NOW</h1>
           <div className="signform">
             <input
               type="text"
@@ -84,9 +84,13 @@ const Signup = () => {
               onChange={change2}
             />
             <br></br>
-            <button onClick={click} className="btnsign">
-              SUBMIT
-            </button>
+
+            <input
+              type="button"
+              onClick={click}
+              className="btnsign"
+              value="SUBMIT"
+            />
           </div>
           <p>
             Already have an account? <a href="#">Login</a>
