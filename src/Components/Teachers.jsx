@@ -7,26 +7,26 @@ function Teachers() {
       <div className="flex-container">
         <div className="flex-item">
           <Card2
-            img="https://cdn.pixabay.com/photo/2020/08/18/19/25/teacher-5499177_640.jpg"
-            name="MR Yakubu"
+            img="https://media.licdn.com/dms/image/v2/D4D35AQGBWNAKesNcPw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725422513522?e=1739880000&v=beta&t=q2kQ5-u1yP8or9C2LLzhWsn_qE3p6tv2mp-l0lMuhqE"
+            name="MR Rasheed Adeyemo"
+          />
+        </div>
+        <div className="flex-item">
+          <Card2
+            img="https://i.ibb.co/G3tzDh9B/7a49887a-93a1-45c7-bad7-f93abb959792.jpg"
+            name="MR TUNDE"
+          />
+        </div>
+        <div className="flex-item">
+          <Card2
+            img="https://media.licdn.com/dms/image/v2/D4D03AQHaUvQVvbOg2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668854393551?e=1744848000&v=beta&t=Pf1O09wkWhRPEyvyPcc3t-W9Mw-LhJ_3heWjmCfroao"
+            name="MR Yakubu Adeshola"
           />
         </div>
         <div className="flex-item">
           <Card2
             img="https://i.ibb.co/DHpKbch9/ecf7a280-c597-45a9-bc53-8371de992c20.jpg"
             name="MR Damilola"
-          />
-        </div>
-        <div className="flex-item">
-          <Card2
-            img="https://cdn.pixabay.com/photo/2020/08/18/18/46/chemistry-teacher-5499052_640.jpg"
-            name="MR Rashid"
-          />
-        </div>
-        <div className="flex-item">
-          <Card2
-            img="https://cdn.pixabay.com/photo/2022/08/11/08/08/student-7378903_640.jpg"
-            name="MR TUNDE"
           />
         </div>
       </div>
