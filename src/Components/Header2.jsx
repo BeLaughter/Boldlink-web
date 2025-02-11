@@ -95,34 +95,8 @@ function Header2() {
                 </a>
               </li>
 
-              {/* <!-- Dropdown Menu --> */}
-              <li className="nav-item dropdown">
-                <a
-                  className="nav-link dropdown-toggle"
-                  href="#"
-                  id="navbarDropdown"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  <strong>Blog</strong>
-                </a>
-                <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Blog list
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Blog detail
-                    </a>
-                  </li>
-                </ul>
-              </li>
-
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="#contact">
                   <strong>Contact</strong>
                 </a>
               </li>

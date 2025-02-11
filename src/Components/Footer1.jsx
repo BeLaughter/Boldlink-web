@@ -5,7 +5,9 @@ function Footer1() {
     <div className=" footer1">
       <div className="flex-container">
         <div className="flex-item mr50">
-          <p className="pfoot">Get In Touch</p>
+          <p className="pfoot" id="contact">
+            Get In Touch
+          </p>
           <ul className="no-bull">
             <li>
               <a href="#" className="afoot">
@@ -38,27 +40,27 @@ function Footer1() {
           <ul className="no-bull ">
             <li>
               <a href="#" className="afoot">
-                >Web design
+                - Web design
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                >Apps design
+                - Apps design
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                >marketing
+                - Database
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                >Research
+                - Research
               </a>
             </li>
             <li>
               <a href="#" className="afoot">
-                >SEO
+                - SEO
               </a>
             </li>
           </ul>

@@ -20,9 +20,7 @@ function Card(props) {
       </div>
       <div className="row">
         <div className="col ancor">
-          <a className="card-ancor">
-            Web design & development courses for beginner
-          </a>
+          <a className="card-ancor">{props.a}</a>
           <hr></hr>
         </div>
       </div>
@@ -31,7 +29,7 @@ function Card(props) {
           <p className="cardp2">⭐ 4.5(250)</p>
         </div>
         <div className="col">
-          <p className="cardp2">$99</p>
+          <p className="cardp2"></p>
         </div>
       </div>
     </div>

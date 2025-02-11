@@ -8,19 +8,19 @@ function Teachers() {
         <div className="flex-item">
           <Card2
             img="https://cdn.pixabay.com/photo/2020/08/18/19/25/teacher-5499177_640.jpg"
-            name="MR BELLO"
+            name="MR Yakubu"
           />
         </div>
         <div className="flex-item">
           <Card2
             img="https://cdn.pixabay.com/photo/2018/10/22/18/02/teacher-3765909_640.jpg"
-            name="MR SUNDAY"
+            name="MR Dami"
           />
         </div>
         <div className="flex-item">
           <Card2
             img="https://cdn.pixabay.com/photo/2020/08/18/18/46/chemistry-teacher-5499052_640.jpg"
-            name="MRS FELIX"
+            name="MR Rashid"
           />
         </div>
         <div className="flex-item">

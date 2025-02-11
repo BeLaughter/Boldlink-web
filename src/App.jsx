@@ -9,7 +9,7 @@ import Courses from "./Components/Courses";
 import Signup from "./Components/Signup";
 import Teachers from "./Components/Teachers";
 import Testimo from "./Components/Testimo";
-import Blog from "./Components/Blog";
+// import Blog from "./Components/Blog";
 import Footer1 from "./Components/Footer1";
 import Footer2 from "./Components/Footer2";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -29,7 +29,7 @@ function App() {
         <a href="#nav">^</a>
       </div>
       <Testimo />
-      <Blog />
+      {/* <Blog /> */}
       <Footer1 />
       <Footer2 />
     </div>

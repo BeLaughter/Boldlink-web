@@ -14,8 +14,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Web Design</p>
-                <p>100 Courses</p>
+                <p>HTML</p>
               </div>
             </div>
           </div>
@@ -28,8 +27,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Development</p>
-                <p>100 Courses</p>
+                <p>CSS</p>
               </div>
             </div>
           </div>
@@ -42,8 +40,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Game Design</p>
-                <p>100 Courses</p>
+                <p>JAVASCRIPT</p>
               </div>
             </div>
           </div>
@@ -56,8 +53,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Apps Design</p>
-                <p>100 Courses</p>
+                <p>BOOTSTRAP</p>
               </div>
             </div>
           </div>
@@ -73,8 +69,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Marketing</p>
-                <p>100 Courses</p>
+                <p>PYTHON</p>
               </div>
             </div>
           </div>
@@ -87,8 +82,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Research</p>
-                <p>100 Courses</p>
+                <p>REACT JS</p>
               </div>
             </div>
           </div>
@@ -101,8 +95,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Content Writing</p>
-                <p>100 Courses</p>
+                <p>NODE JS</p>
               </div>
             </div>
           </div>
@@ -115,8 +108,7 @@ function Subjects() {
               ></img>
               <div className="boxb"></div>
               <div className="text-overlay">
-                <p>Seo</p>
-                <p>100 Courses</p>
+                <p>SEO</p>
               </div>
             </div>
           </div>

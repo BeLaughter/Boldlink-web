@@ -2,7 +2,7 @@ import { FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 function Card2(props) {
   return (
-    <div className="card">
+    <div className="card2">
       <div className="row">
         <div className="col imgcon">
           <img
@@ -28,7 +28,7 @@ function Card2(props) {
       <div className="row">
         <div className="col">
           <p className="cardp2 text-center">{props.name}</p>
-          <p className="text-center cardp">WEB DEVELOPER</p>
+          <p className="text-center cardp">INSTRUCTOR</p>
         </div>
       </div>
     </div>
