@@ -1,4 +1,4 @@
-import { FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaLinkedin, FaTwitter, FaWhatsapp } from "react-icons/fa";
 
 function Card2(props) {
   return (
@@ -13,7 +13,7 @@ function Card2(props) {
           <div className="boxbt">
             <div className="flex-container justify-content-center bib">
               <div className="flex-item">
-                <FaFacebook className="iconsz" />
+                <FaWhatsapp className="iconsz" />
               </div>
               <div className="flex-item">
                 <FaTwitter className="iconsz" />

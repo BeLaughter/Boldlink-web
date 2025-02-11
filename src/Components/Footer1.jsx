@@ -1,4 +1,4 @@
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaInstagram, FaLinkedin, FaTwitter, FaWhatsapp } from "react-icons/fa";
 
 function Footer1() {
   return (
@@ -25,7 +25,7 @@ function Footer1() {
               </a>
             </li>
             <li>
-              <FaFacebook className="iconsz" />
+              <FaWhatsapp className="iconsz" />
 
               <FaInstagram className="iconsz" />
 
