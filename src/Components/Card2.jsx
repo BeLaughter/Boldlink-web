@@ -8,7 +8,7 @@ function Card2(props) {
           <img
             src={props.img}
             alt="web development course"
-            className="card-img"
+            className=" card-img"
           />
           <div className="boxbt">
             <div className="flex-container justify-content-center bib">
@@ -27,8 +27,10 @@ function Card2(props) {
       </div>
       <div className="row">
         <div className="col">
-          <p className="cardp2 text-center">{props.name}</p>
-          <p className="text-center cardp">INSTRUCTOR</p>
+          <p className="cardp2 text-center">
+            {props.name}
+            <br></br>INSTRUCTOR
+          </p>
         </div>
       </div>
     </div>

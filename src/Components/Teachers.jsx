@@ -13,8 +13,8 @@ function Teachers() {
         </div>
         <div className="flex-item">
           <Card2
-            img="https://cdn.pixabay.com/photo/2018/10/22/18/02/teacher-3765909_640.jpg"
-            name="MR Dami"
+            img="https://i.ibb.co/DHpKbch9/ecf7a280-c597-45a9-bc53-8371de992c20.jpg"
+            name="MR Damilola"
           />
         </div>
         <div className="flex-item">

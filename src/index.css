@@ -217,6 +217,11 @@
     width: 25vw !important;
     height: 80vh !important;
   }
+  .card2 {
+    width: 20vw !important;
+    height: auto !important;
+  }
+
   .about2 {
     padding-top: 0px !important;
     width: 50% !important;
@@ -409,7 +414,7 @@
   box-shadow: 0 4px 6px rgba(8, 8, 8, 0.5);
 }
 .card-img {
-  object-fit: contain;
+  height: 37vh;
   border-radius: 10px;
 }
 .cardp {
@@ -572,16 +577,18 @@
   opacity: 0;
   transition: opacity 0.3s ease;
 }
+
 .imgcon {
   position: relative;
-  display: inline-block;
+  width: 25vw;
+  height: 37vh;
 }
 .imgcon:hover .boxbt {
   opacity: 1;
 }
 .bib {
   color: #fcfafa;
-  margin-top: 40px;
+  margin-top: 25%;
 }
 
 .slide {
