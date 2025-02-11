@@ -8,7 +8,7 @@ function Teachers() {
         <div className="flex-item">
           <Card2
             img="https://media.licdn.com/dms/image/v2/D4D35AQGBWNAKesNcPw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725422513522?e=1739880000&v=beta&t=q2kQ5-u1yP8or9C2LLzhWsn_qE3p6tv2mp-l0lMuhqE"
-            name="MR Rasheed Adeyemo"
+            name="MR Yakubu Adeshola"
           />
         </div>
         <div className="flex-item">
@@ -20,7 +20,7 @@ function Teachers() {
         <div className="flex-item">
           <Card2
             img="https://media.licdn.com/dms/image/v2/D4D03AQHaUvQVvbOg2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668854393551?e=1744848000&v=beta&t=Pf1O09wkWhRPEyvyPcc3t-W9Mw-LhJ_3heWjmCfroao"
-            name="MR Yakubu Adeshola"
+            name="MR Rasheed Adeyemo"
           />
         </div>
         <div className="flex-item">
