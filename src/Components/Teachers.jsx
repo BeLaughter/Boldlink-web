@@ -7,7 +7,7 @@ function Teachers() {
       <div className="flex-container">
         <div className="flex-item">
           <Card2
-            img="https://media.licdn.com/dms/image/v2/D4D35AQGBWNAKesNcPw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725422513522?e=1739880000&v=beta&t=q2kQ5-u1yP8or9C2LLzhWsn_qE3p6tv2mp-l0lMuhqE"
+            img="https://media.licdn.com/dms/image/v2/D4D35AQGBWNAKesNcPw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725422513522?e=1740564000&v=beta&t=7IuUK9RQ2x6r-cWfWzHXBEIGPICQU_aheA5-kTCqy84"
             name="MR Yakubu Adeshola"
           />
         </div>
