@@ -8,7 +8,7 @@ function Bodycarosel() {
   }, []);
   return (
     <div
-      id="simpleCarousel "
+      id="simpleCarousel"
       className="carousel slide caro-height"
       data-bs-ride="carousel"
     >
@@ -106,7 +106,7 @@ function Bodycarosel() {
 
       {/* <!-- Carousel Controls --> */}
       <button
-        className="carousel-control-prev dis"
+        className="carousel-control-prev"
         type="button"
         data-bs-target="#simpleCarousel"
         data-bs-slide="prev"
@@ -115,7 +115,7 @@ function Bodycarosel() {
         <span className="visually-hidden ">Previous</span>
       </button>
       <button
-        className="carousel-control-next dis"
+        className="carousel-control-next "
         type="button"
         data-bs-target="#simpleCarousel"
         data-bs-slide="next"
