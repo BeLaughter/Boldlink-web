@@ -63,7 +63,7 @@ function Bodycarosel() {
               with our top-notch programming courses
             </p>
             <a
-              className=" btn btn-warning caroa bgorange"
+              className=" btn  caroa bgorange"
               data-aos="flip-right"
               data-aos-duration="1000"
               href="#"
@@ -93,7 +93,7 @@ function Bodycarosel() {
               <br></br>with our top-notch programming courses
             </p>
             <a
-              className=" btn btn-warning caroa bgorange"
+              className=" btn caroa bgorange"
               data-aos="flip-right"
               data-aos-duration="1000"
               href="#"
