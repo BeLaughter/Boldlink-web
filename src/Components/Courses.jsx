@@ -37,13 +37,13 @@ function Courses() {
           <div className="flex-item">
             <Card
               img="https://cdn.pixabay.com/photo/2017/01/25/05/10/read-2007119_640.jpg"
-              a="Mongodb ror the Beginners"
+              a="Mongodb for Beginners"
             />
           </div>
           <div className="flex-item">
             <Card
               img="https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849819_640.jpg"
-              a="CSS libaray for the Beginners"
+              a="CSS libaray for Beginners"
             />
           </div>
         </div>

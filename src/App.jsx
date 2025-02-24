@@ -15,6 +15,13 @@ import Footer2 from "./Components/Footer2";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
   return (
     <div>
       <Header1 />
@@ -26,7 +33,9 @@ function App() {
       <Signup />
       <Teachers />
       <div className="b2top">
-        <a href="#nav">^</a>
+        <a href="#" onClick={scrollToTop}>
+          ^
+        </a>
       </div>
       <Testimo />
       {/* <Blog /> */}
