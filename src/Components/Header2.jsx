@@ -1,5 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBookOpen } from "@fortawesome/free-solid-svg-icons";
+import { Link } from "react-router-dom";
 
 function Header2() {
   return (
@@ -68,38 +69,35 @@ function Header2() {
         <div className="toggler-position">
           <div className="collapse navbar-collapse " id="navbarNav">
             <ul className="navbar-nav">
-              <li className="nav-item">
-                <a
-                  className="nav-link orange active "
-                  aria-current="page"
-                  href="#"
-                >
+              <Link
+                to="/"
+                className="nav-link orange active "
+                aria-current="page"
+              >
+                <li className="nav-item">
                   <strong>Home</strong>
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#about">
+                </li>
+              </Link>
+              <Link to="/about" className="nav-link">
+                <li className="nav-item">
                   <strong>About</strong>
-                </a>
-              </li>
-
-              <li className="nav-item">
-                <a className="nav-link" href="#course">
+                </li>
+              </Link>
+              <Link to="/courses" className="nav-link">
+                <li className="nav-item">
                   <strong>Courses</strong>
-                </a>
-              </li>
-
-              <li className="nav-item">
-                <a className="nav-link" href="#teacher">
+                </li>
+              </Link>
+              <Link to="/teachers" className="nav-link">
+                <li className="nav-item">
                   <strong>Teachers</strong>
-                </a>
-              </li>
-
-              <li className="nav-item">
-                <a className="nav-link" href="#contact">
+                </li>
+              </Link>
+              <Link to="/contact" className="nav-link">
+                <li className="nav-item">
                   <strong>Contact</strong>
-                </a>
-              </li>
+                </li>
+              </Link>
             </ul>
           </div>
         </div>
